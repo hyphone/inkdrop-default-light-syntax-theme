@@ -2,6 +2,7 @@
   "version": "0.3.0",
   "name": "inkdrop-theme-vscode-dark-syntax",
   "description": "VS Code Dark+ inspired syntax theme",
+  "repository": "https://github.com/hyphone/inkdrop-theme-vscode-dark-syntax",
   "author": "Marco Laux<contact@marcaux.de>",
   "license": "MIT",
   "theme": "syntax",
