@@ -1,7 +1,9 @@
 {
-  "version": "1.0.0",
-  "name": "default-light-syntax",
-  "description": "Default light syntax theme",
+  "version": "0.3.0",
+  "name": "vscode-dark-syntax",
+  "description": "VS Code Dark+ inspired syntax theme",
+  "author": "Marco Laux<contact@marcaux.de>",
+  "license": "MIT",
   "theme": "syntax",
   "styleSheets": ["default.less"],
   "engines": {
